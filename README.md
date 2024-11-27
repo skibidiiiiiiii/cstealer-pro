@@ -1,22 +1,3 @@
-<div align="center">
-  <div>
-    <img src="https://raw.githubusercontent.com/can-kat/cstealer/main/cs.png" alt="CStealer Logo">
-  </div>
-</div>
-
-<p align="center">
-    <img src="https://img.shields.io/github/stars/cankatx/stealer?color=%23000000&logoColor=%23000000" alt="Stars">
-    <img src="https://img.shields.io/github/forks/cankatx/stealer?color=%23000000" alt="Forks"> 
-    <br>
-    <img src="https://img.shields.io/github/languages/top/cankatx/stealer?color=%23000000" alt="Language">
-    <img src="https://img.shields.io/github/last-commit/cankatx/stealer?color=%23000000&logoColor=%23000000" alt="Last Commit">
-    <br>
-    <img src="https://img.shields.io/github/issues/cankatx/stealer?color=%23000000&logoColor=%23000000" alt="Issues">
-    <img src="https://img.shields.io/github/issues-closed/cankatx/stealer?color=%23000000&logoColor=%23000000" alt="Issues Closed">
-    <br>
-</p>
-
-
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade size="20" width="100%">
 
 ## 🚀 **CStealer PRO** - 100% FUD
