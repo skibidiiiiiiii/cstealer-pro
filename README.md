@@ -16,9 +16,6 @@
     <br>
 </p>
 
-<p align="center">
-  Telegram: [Cliquez ici](https://t.me/+jjhIsuuMVvQ1ZTk0)
-</p>
 
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade size="20" width="100%">
 
@@ -43,7 +40,7 @@
 - [Git](https://git-scm.com/download/win)
 
 #### Étapes d'installation :
-1. [Téléchargez le code source (zip)](https://github.com/can-kat/cstealer/archive/refs/heads/main.zip).
+1. Téléchargez le code source (zip).
 2. Extrayez le contenu du fichier zip.
 3. Installez les dépendances nécessaires en lançant le fichier `install.bat`.
 4. Lancez le builder en ouvrant le fichier `builder.pyw`.
